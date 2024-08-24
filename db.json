@@ -8,7 +8,7 @@
       "profilePicture": "https://example.com/profiles/jenniekim.jpg",
       "followers": [2, 3],
       "following": [2],
-      "likes": [2, 3],
+      "likes": [2, 3, 3],
       "comments": [
         {
           "id": 1,
