@@ -9,14 +9,7 @@
       "followers": [2, 3],
       "following": [2],
       "likes": [2, 3, 3],
-      "comments": [
-        {
-          "id": 1,
-          "userId": 2,
-          "text": "Hermosa foto!",
-          "createdAt": "2024-01-05T10:15:00Z"
-        }
-      ]
+      "comments": [1, 2, 3]
     },
     {
       "id": 2,
