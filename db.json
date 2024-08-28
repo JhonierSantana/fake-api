@@ -2,7 +2,7 @@
   "users": [
     {
       "id": "1",
-      "username": "jenniekim",
+      "username": "Jennie Kim",
       "email": "jennie@example.com",
       "password": "hashedpassword",
       "profilePicture": "/histories/JennieKim.png",
@@ -10,14 +10,12 @@
         {
           "postId": 1,
           "postPicture": "/posts/JENNIEKINGPOST.png",
-          "description": "Descripción del post.",
-          "date": "2024-08-26"
+          "description": "Descripción del post."
         },
         {
           "postId": 2,
           "postPicture": "/posts/JENNIEKINGPOST.png",
-          "description": "Otra descripción del post.",
-          "date": "2024-08-27"
+          "description": "Otra descripción del post."
         }
       ],
       "followers": [2, 3],
@@ -29,7 +27,7 @@
     },
     {
       "id": "2",
-      "username": "roseannepark",
+      "username": "Rosean Nepark",
       "email": "roseanne@example.com",
       "password": "hashedpassword",
       "profilePicture": "/histories/RoseannePark.png",
@@ -37,14 +35,12 @@
         {
           "postId": 1,
           "postPicture": "/posts/roseannePark.jpg",
-          "description": "Descripción del post.",
-          "date": "2024-08-26"
+          "description": "Descripción del post."
         },
         {
           "postId": 2,
           "postPicture": "/posts/roseannePark.jpg",
-          "description": "Otra descripción del post.",
-          "date": "2024-08-27"
+          "description": "Otra descripción del post."
         }
       ],
       "followers": [2, 3],
@@ -55,23 +51,46 @@
       "description": "más conocida por su nombre artístico Rosé, es una cantante, modelo y bailarina neozelandesa de origen surcoreano, miembro del grupo femenino Blackpink formado por la discográfica YG Entertainment en 2016.​ Su debut como solista fue el 12 de marzo de 2021, con el sencillo «On the Ground»."
     },
     {
-      "id": "2",
-      "username": "roseannepark",
-      "email": "roseanne@example.com",
+      "id": "3",
+      "username": "Kim Ji-Soo",
+      "email": "kimJi-sooe@example.com",
       "password": "hashedpassword",
-      "profilePicture": "/histories/RoseannePark.png",
+      "profilePicture": "/histories/kimJi-soo.png",
       "posts": [
         {
           "postId": 1,
-          "postPicture": "/posts/roseannePark.jpg",
-          "description": "Descripción del post.",
-          "date": "2024-08-26"
+          "postPicture": "/posts/kimJi-soo.jpg",
+          "description": "Kpoper Coreana"
         },
         {
           "postId": 2,
-          "postPicture": "/posts/roseannePark.jpg",
-          "description": "Otra descripción del post.",
-          "date": "2024-08-27"
+          "postPicture": "/posts/jisoo.webp",
+          "description": "Kpoper Coreana"
+        }
+      ],
+      "followers": [2, 3],
+      "following": [2],
+      "likes": [2, 3, 3],
+      "comments": [1, 2, 3],
+      "responses": [1, 2],
+      "description": "más conocida por su nombre artístico Rosé, es una cantante, modelo y bailarina neozelandesa de origen surcoreano, miembro del grupo femenino Blackpink formado por la discográfica YG Entertainment en 2016.​ Su debut como solista fue el 12 de marzo de 2021, con el sencillo «On the Ground»."
+    },
+    {
+      "id": "4",
+      "username": "Lalisa Manobal",
+      "email": "Lalisae@example.com",
+      "password": "hashedpassword",
+      "profilePicture": "/histories/LalisaManoban.png",
+      "posts": [
+        {
+          "postId": 1,
+          "postPicture": "/posts/Lisa.jpg",
+          "description": "Kpoper Coreana"
+        },
+        {
+          "postId": 2,
+          "postPicture": "/posts/lisa2.jpg",
+          "description": "Kpoper Coreana"
         }
       ],
       "followers": [2, 3],
