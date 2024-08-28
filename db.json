@@ -14,7 +14,32 @@
         },
         {
           "postId": 2,
-          "postPicture": "/posts/JENNIEKINGPOST.png",
+          "postPicture": "/posts/JENNIE1.png",
+          "description": "Otra descripción del post."
+        },
+        {
+          "postId": 3,
+          "postPicture": "/posts/JENNIE2.png",
+          "description": "Otra descripción del post."
+        },
+        {
+          "postId": 4,
+          "postPicture": "/posts/JENNIE3.png",
+          "description": "Otra descripción del post."
+        },
+        {
+          "postId": 5,
+          "postPicture": "/posts/JENNIE4.png",
+          "description": "Otra descripción del post."
+        },
+        {
+          "postId": 6,
+          "postPicture": "/posts/JENNIE5.png",
+          "description": "Otra descripción del post."
+        },
+        {
+          "postId": 7,
+          "postPicture": "/posts/JENNIE2.png",
           "description": "Otra descripción del post."
         }
       ],
