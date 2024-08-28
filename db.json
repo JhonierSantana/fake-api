@@ -1,7 +1,7 @@
 {
   "users": [
     {
-      "id": 1,
+      "id": "1",
       "username": "jenniekim",
       "email": "jennie@example.com",
       "password": "hashedpassword",
@@ -20,15 +20,31 @@
           "date": "2024-08-27"
         }
       ],
-      "followers": [2, 3],
-      "following": [2],
-      "likes": [2, 3, 3],
-      "comments": [1, 2, 3],
-      "responses": [1, 2],
+      "followers": [
+        2,
+        3
+      ],
+      "following": [
+        2
+      ],
+      "likes": [
+        2,
+        3,
+        3
+      ],
+      "comments": [
+        1,
+        2,
+        3
+      ],
+      "responses": [
+        1,
+        2
+      ],
       "description": "Conocida simplemente como Jennie, es una cantante, rapera y bailarina surcoreana..."
     },
     {
-      "id": 2,
+      "id": "2",
       "username": "roseannepark",
       "email": "roseanne@example.com",
       "password": "hashedpassword",
@@ -47,15 +63,31 @@
           "date": "2024-08-27"
         }
       ],
-      "followers": [2, 3],
-      "following": [2],
-      "likes": [2, 3, 3],
-      "comments": [1, 2, 3],
-      "responses": [1, 2],
+      "followers": [
+        2,
+        3
+      ],
+      "following": [
+        2
+      ],
+      "likes": [
+        2,
+        3,
+        3
+      ],
+      "comments": [
+        1,
+        2,
+        3
+      ],
+      "responses": [
+        1,
+        2
+      ],
       "description": "más conocida por su nombre artístico Rosé, es una cantante, modelo y bailarina neozelandesa de origen surcoreano, miembro del grupo femenino Blackpink formado por la discográfica YG Entertainment en 2016.​ Su debut como solista fue el 12 de marzo de 2021, con el sencillo «On the Ground»."
     },
     {
-      "id": 2,
+      "id": "2",
       "username": "roseannepark",
       "email": "roseanne@example.com",
       "password": "hashedpassword",
@@ -74,12 +106,36 @@
           "date": "2024-08-27"
         }
       ],
-      "followers": [2, 3],
-      "following": [2],
-      "likes": [2, 3, 3],
-      "comments": [1, 2, 3],
-      "responses": [1, 2],
+      "followers": [
+        2,
+        3
+      ],
+      "following": [
+        2
+      ],
+      "likes": [
+        2,
+        3,
+        3
+      ],
+      "comments": [
+        1,
+        2,
+        3
+      ],
+      "responses": [
+        1,
+        2
+      ],
       "description": "más conocida por su nombre artístico Rosé, es una cantante, modelo y bailarina neozelandesa de origen surcoreano, miembro del grupo femenino Blackpink formado por la discográfica YG Entertainment en 2016.​ Su debut como solista fue el 12 de marzo de 2021, con el sencillo «On the Ground»."
+    },
+    {
+      "id": "1e20",
+      "query": ""
+    },
+    {
+      "id": "15c2",
+      "query": ""
     }
   ]
 }
