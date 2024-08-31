@@ -43,12 +43,9 @@
           "description": "Otra descripción del post."
         }
       ],
-      "followers": [2, 3],
-      "following": [2],
-      "likes": [2, 3, 3],
-      "comments": [1, 2, 3],
-      "responses": [1, 2],
-      "description": "Conocida simplemente como Jennie, es una cantante, rapera y bailarina surcoreana..."
+      "followers": "23M",
+      "likes": "223M",
+      "responses": "10k"
     },
     {
       "id": "2",
@@ -69,11 +66,8 @@
         }
       ],
       "followers": [2, 3],
-      "following": [2],
       "likes": [2, 3, 3],
-      "comments": [1, 2, 3],
-      "responses": [1, 2],
-      "description": "más conocida por su nombre artístico Rosé, es una cantante, modelo y bailarina neozelandesa de origen surcoreano, miembro del grupo femenino Blackpink formado por la discográfica YG Entertainment en 2016.​ Su debut como solista fue el 12 de marzo de 2021, con el sencillo «On the Ground»."
+      "responses": [1, 2]
     },
     {
       "id": "3",
@@ -94,11 +88,8 @@
         }
       ],
       "followers": [2, 3],
-      "following": [2],
       "likes": [2, 3, 3],
-      "comments": [1, 2, 3],
-      "responses": [1, 2],
-      "description": "más conocida por su nombre artístico Rosé, es una cantante, modelo y bailarina neozelandesa de origen surcoreano, miembro del grupo femenino Blackpink formado por la discográfica YG Entertainment en 2016.​ Su debut como solista fue el 12 de marzo de 2021, con el sencillo «On the Ground»."
+      "responses": [1, 2]
     },
     {
       "id": "4",
@@ -119,11 +110,8 @@
         }
       ],
       "followers": [2, 3],
-      "following": [2],
       "likes": [2, 3, 3],
-      "comments": [1, 2, 3],
-      "responses": [1, 2],
-      "description": "más conocida por su nombre artístico Rosé, es una cantante, modelo y bailarina neozelandesa de origen surcoreano, miembro del grupo femenino Blackpink formado por la discográfica YG Entertainment en 2016.​ Su debut como solista fue el 12 de marzo de 2021, con el sencillo «On the Ground»."
+      "responses": [1, 2]
     }
   ]
 }
