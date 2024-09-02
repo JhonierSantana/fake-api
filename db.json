@@ -9,7 +9,8 @@
       "posts": [
         {
           "postId": 1,
-          "postPicture": "https://i.pinimg.com/originals/19/44/4c/19444c11e824432f736f87499f7526ca.gif",
+          "postPicture": "/posts/JENNIEKINGPOST.png",
+          "postVideoPicture": "https://i.pinimg.com/originals/19/44/4c/19444c11e824432f736f87499f7526ca.gif",
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Imperdiet gravida tortor in habitant pellentesque a quisque. Nisl diam, amet eu est libero dignissim donec nec. Fames bibendum porta phasellus neque. Integer et lectus amet, vitae facilisis laoreet feugiat pellentesque accumsan. Turpis eget laoreet turpis urna tincidunt nisl, integer nisl. Id nec tortor vel, dui, lectus. Donec consequat dolor cursus sed pellentesque etiam ipsum, id quam. Tincidunt eu duis ullamcorper posuere augue. Arcu senectus elit, semper diam porta. Platea tempus augue ante pellentesque dictum sed vitae. Auctor dui ac bibendum lacus."
         },
         {
