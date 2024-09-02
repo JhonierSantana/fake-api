@@ -16,26 +16,31 @@
         {
           "postId": 2,
           "postPicture": "/posts/JENNIE1.png",
+          "postVideoPicture": "https://i.pinimg.com/originals/a8/a3/02/a8a3020351f9833d190cd4563395d49b.gif",
           "description": "Otra descripción del post."
         },
         {
           "postId": 3,
           "postPicture": "/posts/JENNIE2.png",
+          "postVideoPicture": "https://i.pinimg.com/originals/4d/4e/71/4d4e71ab03100b66201fa6cf3f44e403.gif",
           "description": "Otra descripción del post."
         },
         {
           "postId": 4,
           "postPicture": "/posts/JENNIE3.png",
+          "postVideoPicture": "https://gifdb.com/images/high/jennie-kim-with-eyeglasses-jq47vdgebu5nie4j.gif",
           "description": "Otra descripción del post."
         },
         {
           "postId": 5,
           "postPicture": "/posts/JENNIE4.png",
+          "postVideoPicture": "https://64.media.tumblr.com/e4c45dd962246ac0de2e4ef70d82e168/418b51e5cf43ba74-b8/s400x600/b6f077540a660891007fec7bcc3f5b5d656d1c3f.gifv",
           "description": "Otra descripción del post."
         },
         {
           "postId": 6,
           "postPicture": "/posts/JENNIE5.png",
+          "postVideoPicture": "https://i.pinimg.com/originals/4d/4e/71/4d4e71ab03100b66201fa6cf3f44e403.gif",
           "description": "Otra descripción del post."
         },
         {
