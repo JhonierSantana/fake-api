@@ -17,36 +17,36 @@
           "postId": 2,
           "postPicture": "/posts/JENNIE1.png",
           "postVideoPicture": "https://i.pinimg.com/originals/a8/a3/02/a8a3020351f9833d190cd4563395d49b.gif",
-          "description": "Otra descripción del post."
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Imperdiet gravida tortor in habitant pellentesque a quisque. Nisl diam, amet eu est libero dignissim donec nec. Fames bibendum porta phasellus neque. Integer et lectus amet, vitae facilisis laoreet feugiat pellentesque accumsan. Turpis eget laoreet turpis urna tincidunt nisl, integer nisl. Id nec tortor vel, dui, lectus. Donec consequat dolor cursus sed pellentesque etiam ipsum, id quam. Tincidunt eu duis ullamcorper posuere augue. Arcu senectus elit, semper diam porta. Platea tempus augue ante pellentesque dictum sed vitae. Auctor dui ac bibendum lacus."
         },
         {
           "postId": 3,
           "postPicture": "/posts/JENNIE2.png",
           "postVideoPicture": "https://i.pinimg.com/originals/4d/4e/71/4d4e71ab03100b66201fa6cf3f44e403.gif",
-          "description": "Otra descripción del post."
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Imperdiet gravida tortor in habitant pellentesque a quisque. Nisl diam, amet eu est libero dignissim donec nec. Fames bibendum porta phasellus neque. Integer et lectus amet, vitae facilisis laoreet feugiat pellentesque accumsan. Turpis eget laoreet turpis urna tincidunt nisl, integer nisl. Id nec tortor vel, dui, lectus. Donec consequat dolor cursus sed pellentesque etiam ipsum, id quam. Tincidunt eu duis ullamcorper posuere augue. Arcu senectus elit, semper diam porta. Platea tempus augue ante pellentesque dictum sed vitae. Auctor dui ac bibendum lacus."
         },
         {
           "postId": 4,
           "postPicture": "/posts/JENNIE3.png",
           "postVideoPicture": "https://gifdb.com/images/high/jennie-kim-with-eyeglasses-jq47vdgebu5nie4j.gif",
-          "description": "Otra descripción del post."
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Imperdiet gravida tortor in habitant pellentesque a quisque. Nisl diam, amet eu est libero dignissim donec nec. Fames bibendum porta phasellus neque. Integer et lectus amet, vitae facilisis laoreet feugiat pellentesque accumsan. Turpis eget laoreet turpis urna tincidunt nisl, integer nisl. Id nec tortor vel, dui, lectus. Donec consequat dolor cursus sed pellentesque etiam ipsum, id quam. Tincidunt eu duis ullamcorper posuere augue. Arcu senectus elit, semper diam porta. Platea tempus augue ante pellentesque dictum sed vitae. Auctor dui ac bibendum lacus."
         },
         {
           "postId": 5,
           "postPicture": "/posts/JENNIE4.png",
           "postVideoPicture": "https://64.media.tumblr.com/e4c45dd962246ac0de2e4ef70d82e168/418b51e5cf43ba74-b8/s400x600/b6f077540a660891007fec7bcc3f5b5d656d1c3f.gifv",
-          "description": "Otra descripción del post."
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Imperdiet gravida tortor in habitant pellentesque a quisque. Nisl diam, amet eu est libero dignissim donec nec. Fames bibendum porta phasellus neque. Integer et lectus amet, vitae facilisis laoreet feugiat pellentesque accumsan. Turpis eget laoreet turpis urna tincidunt nisl, integer nisl. Id nec tortor vel, dui, lectus. Donec consequat dolor cursus sed pellentesque etiam ipsum, id quam. Tincidunt eu duis ullamcorper posuere augue. Arcu senectus elit, semper diam porta. Platea tempus augue ante pellentesque dictum sed vitae. Auctor dui ac bibendum lacus."
         },
         {
           "postId": 6,
           "postPicture": "/posts/JENNIE5.png",
           "postVideoPicture": "https://i.pinimg.com/originals/4d/4e/71/4d4e71ab03100b66201fa6cf3f44e403.gif",
-          "description": "Otra descripción del post."
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Imperdiet gravida tortor in habitant pellentesque a quisque. Nisl diam, amet eu est libero dignissim donec nec. Fames bibendum porta phasellus neque. Integer et lectus amet, vitae facilisis laoreet feugiat pellentesque accumsan. Turpis eget laoreet turpis urna tincidunt nisl, integer nisl. Id nec tortor vel, dui, lectus. Donec consequat dolor cursus sed pellentesque etiam ipsum, id quam. Tincidunt eu duis ullamcorper posuere augue. Arcu senectus elit, semper diam porta. Platea tempus augue ante pellentesque dictum sed vitae. Auctor dui ac bibendum lacus."
         },
         {
           "postId": 7,
           "postPicture": "/posts/JENNIE2.png",
-          "description": "Otra descripción del post."
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Imperdiet gravida tortor in habitant pellentesque a quisque. Nisl diam, amet eu est libero dignissim donec nec. Fames bibendum porta phasellus neque. Integer et lectus amet, vitae facilisis laoreet feugiat pellentesque accumsan. Turpis eget laoreet turpis urna tincidunt nisl, integer nisl. Id nec tortor vel, dui, lectus. Donec consequat dolor cursus sed pellentesque etiam ipsum, id quam. Tincidunt eu duis ullamcorper posuere augue. Arcu senectus elit, semper diam porta. Platea tempus augue ante pellentesque dictum sed vitae. Auctor dui ac bibendum lacus."
         }
       ],
       "followers": 23,
@@ -67,8 +67,33 @@
         },
         {
           "postId": 2,
-          "postPicture": "/posts/roseannePark.jpg",
-          "description": "Otra descripción del post."
+          "postPicture": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a50a66d9-0481-46d5-a17f-9919090e8c73/width=450/00017-3029555142-lora%20roseblackpink%20sd15.jpeg",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Imperdiet gravida tortor in habitant pellentesque a quisque. Nisl diam, amet eu est libero dignissim donec nec. Fames bibendum porta phasellus neque. Integer et lectus amet, vitae facilisis laoreet feugiat pellentesque accumsan. Turpis eget laoreet turpis urna tincidunt nisl, integer nisl. Id nec tortor vel, dui, lectus. Donec consequat dolor cursus sed pellentesque etiam ipsum, id quam. Tincidunt eu duis ullamcorper posuere augue. Arcu senectus elit, semper diam porta. Platea tempus augue ante pellentesque dictum sed vitae. Auctor dui ac bibendum lacus."
+        },
+        {
+          "postId": 3,
+          "postPicture": "https://www.publimetro.pe/resizer/v2/2XTIBW3ZTBAC7EID4NP5VXQX5Y.jpg?auth=d9b921de205d66c01f2c9c93983e9d949efcda3888c27b0ff17478894f40f818&width=800&height=800",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Imperdiet gravida tortor in habitant pellentesque a quisque. Nisl diam, amet eu est libero dignissim donec nec. Fames bibendum porta phasellus neque. Integer et lectus amet, vitae facilisis laoreet feugiat pellentesque accumsan. Turpis eget laoreet turpis urna tincidunt nisl, integer nisl. Id nec tortor vel, dui, lectus. Donec consequat dolor cursus sed pellentesque etiam ipsum, id quam. Tincidunt eu duis ullamcorper posuere augue. Arcu senectus elit, semper diam porta. Platea tempus augue ante pellentesque dictum sed vitae. Auctor dui ac bibendum lacus."
+        },
+        {
+          "postId": 4,
+          "postPicture": "https://i.redd.it/s5gtgq8lpefc1.jpeg",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Imperdiet gravida tortor in habitant pellentesque a quisque. Nisl diam, amet eu est libero dignissim donec nec. Fames bibendum porta phasellus neque. Integer et lectus amet, vitae facilisis laoreet feugiat pellentesque accumsan. Turpis eget laoreet turpis urna tincidunt nisl, integer nisl. Id nec tortor vel, dui, lectus. Donec consequat dolor cursus sed pellentesque etiam ipsum, id quam. Tincidunt eu duis ullamcorper posuere augue. Arcu senectus elit, semper diam porta. Platea tempus augue ante pellentesque dictum sed vitae. Auctor dui ac bibendum lacus."
+        },
+        {
+          "postId": 5,
+          "postPicture": "https://pm1.aminoapps.com/7993/c7f0b4ea1fb96bdc3d30ebcea3c63f7516f26b09r1-736-957v2_uhq.jpg",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Imperdiet gravida tortor in habitant pellentesque a quisque. Nisl diam, amet eu est libero dignissim donec nec. Fames bibendum porta phasellus neque. Integer et lectus amet, vitae facilisis laoreet feugiat pellentesque accumsan. Turpis eget laoreet turpis urna tincidunt nisl, integer nisl. Id nec tortor vel, dui, lectus. Donec consequat dolor cursus sed pellentesque etiam ipsum, id quam. Tincidunt eu duis ullamcorper posuere augue. Arcu senectus elit, semper diam porta. Platea tempus augue ante pellentesque dictum sed vitae. Auctor dui ac bibendum lacus."
+        },
+        {
+          "postId": 6,
+          "postPicture": "https://cdn4.sharechat.com/img_25427_3a1d2e6c_1674612020376_sc.jpg?tenant=sc&referrer=pwa-sharechat-service&f=376_sc.jpg",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Imperdiet gravida tortor in habitant pellentesque a quisque. Nisl diam, amet eu est libero dignissim donec nec. Fames bibendum porta phasellus neque. Integer et lectus amet, vitae facilisis laoreet feugiat pellentesque accumsan. Turpis eget laoreet turpis urna tincidunt nisl, integer nisl. Id nec tortor vel, dui, lectus. Donec consequat dolor cursus sed pellentesque etiam ipsum, id quam. Tincidunt eu duis ullamcorper posuere augue. Arcu senectus elit, semper diam porta. Platea tempus augue ante pellentesque dictum sed vitae. Auctor dui ac bibendum lacus."
+        },
+        {
+          "postId": 7,
+          "postPicture": "https://w0.peakpx.com/wallpaper/106/965/HD-wallpaper-rose-blackpink-blackpink-rose-kpop-on-the-ground-park-chaeyoung-rose-on-the-ground-roseanne-thumbnail.jpg",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Imperdiet gravida tortor in habitant pellentesque a quisque. Nisl diam, amet eu est libero dignissim donec nec. Fames bibendum porta phasellus neque. Integer et lectus amet, vitae facilisis laoreet feugiat pellentesque accumsan. Turpis eget laoreet turpis urna tincidunt nisl, integer nisl. Id nec tortor vel, dui, lectus. Donec consequat dolor cursus sed pellentesque etiam ipsum, id quam. Tincidunt eu duis ullamcorper posuere augue. Arcu senectus elit, semper diam porta. Platea tempus augue ante pellentesque dictum sed vitae. Auctor dui ac bibendum lacus."
         }
       ],
       "followers": [2, 3],
