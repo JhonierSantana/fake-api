@@ -63,36 +63,43 @@
         {
           "postId": 1,
           "postPicture": "/posts/roseannePark.jpg",
+          "postVideoPicture": "https://i.pinimg.com/originals/6e/32/8e/6e328ed43e2e6523df13d8fd28e29b71.gif",
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Imperdiet gravida tortor in habitant pellentesque a quisque. Nisl diam, amet eu est libero dignissim donec nec. Fames bibendum porta phasellus neque. Integer et lectus amet, vitae facilisis laoreet feugiat pellentesque accumsan. Turpis eget laoreet turpis urna tincidunt nisl, integer nisl. Id nec tortor vel, dui, lectus. Donec consequat dolor cursus sed pellentesque etiam ipsum, id quam. Tincidunt eu duis ullamcorper posuere augue. Arcu senectus elit, semper diam porta. Platea tempus augue ante pellentesque dictum sed vitae. Auctor dui ac bibendum lacus."
         },
         {
           "postId": 2,
           "postPicture": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a50a66d9-0481-46d5-a17f-9919090e8c73/width=450/00017-3029555142-lora%20roseblackpink%20sd15.jpeg",
+          "postVideoPicture": "https://media.tenor.com/linqGvfCspoAAAAM/blackpink-ros%C3%A9.gif",
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Imperdiet gravida tortor in habitant pellentesque a quisque. Nisl diam, amet eu est libero dignissim donec nec. Fames bibendum porta phasellus neque. Integer et lectus amet, vitae facilisis laoreet feugiat pellentesque accumsan. Turpis eget laoreet turpis urna tincidunt nisl, integer nisl. Id nec tortor vel, dui, lectus. Donec consequat dolor cursus sed pellentesque etiam ipsum, id quam. Tincidunt eu duis ullamcorper posuere augue. Arcu senectus elit, semper diam porta. Platea tempus augue ante pellentesque dictum sed vitae. Auctor dui ac bibendum lacus."
         },
         {
           "postId": 3,
           "postPicture": "https://www.publimetro.pe/resizer/v2/2XTIBW3ZTBAC7EID4NP5VXQX5Y.jpg?auth=d9b921de205d66c01f2c9c93983e9d949efcda3888c27b0ff17478894f40f818&width=800&height=800",
+          "postVideoPicture": "https://media.tenor.com/SXOKsj-XufcAAAAM/blackpink-rose-blackpink.gif",
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Imperdiet gravida tortor in habitant pellentesque a quisque. Nisl diam, amet eu est libero dignissim donec nec. Fames bibendum porta phasellus neque. Integer et lectus amet, vitae facilisis laoreet feugiat pellentesque accumsan. Turpis eget laoreet turpis urna tincidunt nisl, integer nisl. Id nec tortor vel, dui, lectus. Donec consequat dolor cursus sed pellentesque etiam ipsum, id quam. Tincidunt eu duis ullamcorper posuere augue. Arcu senectus elit, semper diam porta. Platea tempus augue ante pellentesque dictum sed vitae. Auctor dui ac bibendum lacus."
         },
         {
           "postId": 4,
           "postPicture": "https://i.redd.it/s5gtgq8lpefc1.jpeg",
+          "postVideoPicture": "https://c.tenor.com/hOD_MyPzhgEAAAAM/blackpink-roseanne-park.gif",
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Imperdiet gravida tortor in habitant pellentesque a quisque. Nisl diam, amet eu est libero dignissim donec nec. Fames bibendum porta phasellus neque. Integer et lectus amet, vitae facilisis laoreet feugiat pellentesque accumsan. Turpis eget laoreet turpis urna tincidunt nisl, integer nisl. Id nec tortor vel, dui, lectus. Donec consequat dolor cursus sed pellentesque etiam ipsum, id quam. Tincidunt eu duis ullamcorper posuere augue. Arcu senectus elit, semper diam porta. Platea tempus augue ante pellentesque dictum sed vitae. Auctor dui ac bibendum lacus."
         },
         {
           "postId": 5,
           "postPicture": "https://pm1.aminoapps.com/7993/c7f0b4ea1fb96bdc3d30ebcea3c63f7516f26b09r1-736-957v2_uhq.jpg",
+          "postVideoPicture": "https://i.pinimg.com/originals/6d/e8/3c/6de83cc1271edcbd3922cb2297b1931b.gif",
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Imperdiet gravida tortor in habitant pellentesque a quisque. Nisl diam, amet eu est libero dignissim donec nec. Fames bibendum porta phasellus neque. Integer et lectus amet, vitae facilisis laoreet feugiat pellentesque accumsan. Turpis eget laoreet turpis urna tincidunt nisl, integer nisl. Id nec tortor vel, dui, lectus. Donec consequat dolor cursus sed pellentesque etiam ipsum, id quam. Tincidunt eu duis ullamcorper posuere augue. Arcu senectus elit, semper diam porta. Platea tempus augue ante pellentesque dictum sed vitae. Auctor dui ac bibendum lacus."
         },
         {
           "postId": 6,
           "postPicture": "https://cdn4.sharechat.com/img_25427_3a1d2e6c_1674612020376_sc.jpg?tenant=sc&referrer=pwa-sharechat-service&f=376_sc.jpg",
+          "postVideoPicture": "https://i.pinimg.com/originals/24/e8/bd/24e8bd4907725c29be01a9a9ddf61dc5.gif",
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Imperdiet gravida tortor in habitant pellentesque a quisque. Nisl diam, amet eu est libero dignissim donec nec. Fames bibendum porta phasellus neque. Integer et lectus amet, vitae facilisis laoreet feugiat pellentesque accumsan. Turpis eget laoreet turpis urna tincidunt nisl, integer nisl. Id nec tortor vel, dui, lectus. Donec consequat dolor cursus sed pellentesque etiam ipsum, id quam. Tincidunt eu duis ullamcorper posuere augue. Arcu senectus elit, semper diam porta. Platea tempus augue ante pellentesque dictum sed vitae. Auctor dui ac bibendum lacus."
         },
         {
           "postId": 7,
           "postPicture": "https://w0.peakpx.com/wallpaper/106/965/HD-wallpaper-rose-blackpink-blackpink-rose-kpop-on-the-ground-park-chaeyoung-rose-on-the-ground-roseanne-thumbnail.jpg",
+          "postVideoPicture": "https://media.tenor.com/BYSnKEJsjYsAAAAM/ros%C3%A9-park-chaeyoung.gif",
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Imperdiet gravida tortor in habitant pellentesque a quisque. Nisl diam, amet eu est libero dignissim donec nec. Fames bibendum porta phasellus neque. Integer et lectus amet, vitae facilisis laoreet feugiat pellentesque accumsan. Turpis eget laoreet turpis urna tincidunt nisl, integer nisl. Id nec tortor vel, dui, lectus. Donec consequat dolor cursus sed pellentesque etiam ipsum, id quam. Tincidunt eu duis ullamcorper posuere augue. Arcu senectus elit, semper diam porta. Platea tempus augue ante pellentesque dictum sed vitae. Auctor dui ac bibendum lacus."
         }
       ],
@@ -110,12 +117,44 @@
         {
           "postId": 1,
           "postPicture": "/posts/kimJi-soo.jpg",
+          "postVideoPicture": "https://i.pinimg.com/originals/0c/d7/49/0cd749fc22abb81da288cf99d6c4a870.gif",
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Imperdiet gravida tortor in habitant pellentesque a quisque. Nisl diam, amet eu est libero dignissim donec nec. Fames bibendum porta phasellus neque. Integer et lectus amet, vitae facilisis laoreet feugiat pellentesque accumsan. Turpis eget laoreet turpis urna tincidunt nisl, integer nisl. Id nec tortor vel, dui, lectus. Donec consequat dolor cursus sed pellentesque etiam ipsum, id quam. Tincidunt eu duis ullamcorper posuere augue. Arcu senectus elit, semper diam porta. Platea tempus augue ante pellentesque dictum sed vitae. Auctor dui ac bibendum lacus."
         },
         {
           "postId": 2,
-          "postPicture": "/posts/jisoo.webp",
-          "description": "Kpoper Coreana"
+          "postPicture": "https://i.pinimg.com/736x/6d/f1/7d/6df17db722fe360db8e7ff99dbd8cdab.jpg",
+          "postVideoPicture": "https://media.tenor.com/Rci3Tcpj3-kAAAAM/blackpink-love.gif",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Imperdiet gravida tortor in habitant pellentesque a quisque. Nisl diam, amet eu est libero dignissim donec nec. Fames bibendum porta phasellus neque. Integer et lectus amet, vitae facilisis laoreet feugiat pellentesque accumsan. Turpis eget laoreet turpis urna tincidunt nisl, integer nisl. Id nec tortor vel, dui, lectus. Donec consequat dolor cursus sed pellentesque etiam ipsum, id quam. Tincidunt eu duis ullamcorper posuere augue. Arcu senectus elit, semper diam porta. Platea tempus augue ante pellentesque dictum sed vitae. Auctor dui ac bibendum lacus."
+        },
+        {
+          "postId": 3,
+          "postPicture": "https://w0.peakpx.com/wallpaper/839/404/HD-wallpaper-jisoo-blackpink-how-you-like-that-ice-cream-kill-this-love-kim-jisoo-kpop-lovesick-girls-the-album.jpg",
+          "postVideoPicture": "https://media.tenor.com/g3a4ruPoTFYAAAAM/jisoo-jisoo-kim.gif",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Imperdiet gravida tortor in habitant pellentesque a quisque. Nisl diam, amet eu est libero dignissim donec nec. Fames bibendum porta phasellus neque. Integer et lectus amet, vitae facilisis laoreet feugiat pellentesque accumsan. Turpis eget laoreet turpis urna tincidunt nisl, integer nisl. Id nec tortor vel, dui, lectus. Donec consequat dolor cursus sed pellentesque etiam ipsum, id quam. Tincidunt eu duis ullamcorper posuere augue. Arcu senectus elit, semper diam porta. Platea tempus augue ante pellentesque dictum sed vitae. Auctor dui ac bibendum lacus."
+        },
+        {
+          "postId": 4,
+          "postPicture": "https://assets.puzzlefactory.com/puzzle/260/796/original.jpg",
+          "postVideoPicture": "https://64.media.tumblr.com/61efc6986290b39ea3ca9baefa976dec/tumblr_otl4nacikp1sh3g3mo4_r1_400.gif",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Imperdiet gravida tortor in habitant pellentesque a quisque. Nisl diam, amet eu est libero dignissim donec nec. Fames bibendum porta phasellus neque. Integer et lectus amet, vitae facilisis laoreet feugiat pellentesque accumsan. Turpis eget laoreet turpis urna tincidunt nisl, integer nisl. Id nec tortor vel, dui, lectus. Donec consequat dolor cursus sed pellentesque etiam ipsum, id quam. Tincidunt eu duis ullamcorper posuere augue. Arcu senectus elit, semper diam porta. Platea tempus augue ante pellentesque dictum sed vitae. Auctor dui ac bibendum lacus."
+        },
+        {
+          "postId": 5,
+          "postPicture": "/posts/kimJi-soo.jpg",
+          "postVideoPicture": "https://media.tenor.com/XI-XT5YkjFkAAAAM/jisoo-ears.gif",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Imperdiet gravida tortor in habitant pellentesque a quisque. Nisl diam, amet eu est libero dignissim donec nec. Fames bibendum porta phasellus neque. Integer et lectus amet, vitae facilisis laoreet feugiat pellentesque accumsan. Turpis eget laoreet turpis urna tincidunt nisl, integer nisl. Id nec tortor vel, dui, lectus. Donec consequat dolor cursus sed pellentesque etiam ipsum, id quam. Tincidunt eu duis ullamcorper posuere augue. Arcu senectus elit, semper diam porta. Platea tempus augue ante pellentesque dictum sed vitae. Auctor dui ac bibendum lacus."
+        },
+        {
+          "postId": 6,
+          "postPicture": "https://pm1.aminoapps.com/7204/92dece55117da2fcdb871fc2974c7cb46182b9ddr1-680-1004v2_uhq.jpg",
+          "postVideoPicture": "https://favim.com/pd/s12/gif_previews/8/886/8860/88602/8860205.gif",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Imperdiet gravida tortor in habitant pellentesque a quisque. Nisl diam, amet eu est libero dignissim donec nec. Fames bibendum porta phasellus neque. Integer et lectus amet, vitae facilisis laoreet feugiat pellentesque accumsan. Turpis eget laoreet turpis urna tincidunt nisl, integer nisl. Id nec tortor vel, dui, lectus. Donec consequat dolor cursus sed pellentesque etiam ipsum, id quam. Tincidunt eu duis ullamcorper posuere augue. Arcu senectus elit, semper diam porta. Platea tempus augue ante pellentesque dictum sed vitae. Auctor dui ac bibendum lacus."
+        },
+        {
+          "postId": 7,
+          "postPicture": "https://i.pinimg.com/736x/52/1c/36/521c36d91b41e2364daf0d636b710d1d.jpg",
+          "postVideoPicture": "https://i.imgur.com/8rlCE24.gif",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Imperdiet gravida tortor in habitant pellentesque a quisque. Nisl diam, amet eu est libero dignissim donec nec. Fames bibendum porta phasellus neque. Integer et lectus amet, vitae facilisis laoreet feugiat pellentesque accumsan. Turpis eget laoreet turpis urna tincidunt nisl, integer nisl. Id nec tortor vel, dui, lectus. Donec consequat dolor cursus sed pellentesque etiam ipsum, id quam. Tincidunt eu duis ullamcorper posuere augue. Arcu senectus elit, semper diam porta. Platea tempus augue ante pellentesque dictum sed vitae. Auctor dui ac bibendum lacus."
         }
       ],
       "followers": [2, 3],
@@ -132,12 +171,44 @@
         {
           "postId": 1,
           "postPicture": "/posts/Lisa.jpg",
-          "description": "Kpoper Coreana"
+          "postVideoPicture": "https://i.pinimg.com/originals/6b/91/a1/6b91a17e5b27d8919467a684f878fd2f.gif",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Imperdiet gravida tortor in habitant pellentesque a quisque. Nisl diam, amet eu est libero dignissim donec nec. Fames bibendum porta phasellus neque. Integer et lectus amet, vitae facilisis laoreet feugiat pellentesque accumsan. Turpis eget laoreet turpis urna tincidunt nisl, integer nisl. Id nec tortor vel, dui, lectus. Donec consequat dolor cursus sed pellentesque etiam ipsum, id quam. Tincidunt eu duis ullamcorper posuere augue. Arcu senectus elit, semper diam porta. Platea tempus augue ante pellentesque dictum sed vitae. Auctor dui ac bibendum lacus."
         },
         {
           "postId": 2,
           "postPicture": "/posts/lisa2.jpg",
-          "description": "Kpoper Coreana"
+          "postVideoPicture": "https://media.tenor.com/UH426_mogJYAAAAM/blackpink-lisa.gif",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Imperdiet gravida tortor in habitant pellentesque a quisque. Nisl diam, amet eu est libero dignissim donec nec. Fames bibendum porta phasellus neque. Integer et lectus amet, vitae facilisis laoreet feugiat pellentesque accumsan. Turpis eget laoreet turpis urna tincidunt nisl, integer nisl. Id nec tortor vel, dui, lectus. Donec consequat dolor cursus sed pellentesque etiam ipsum, id quam. Tincidunt eu duis ullamcorper posuere augue. Arcu senectus elit, semper diam porta. Platea tempus augue ante pellentesque dictum sed vitae. Auctor dui ac bibendum lacus."
+        },
+        {
+          "postId": 3,
+          "postPicture": "https://i.pinimg.com/originals/1a/8e/7c/1a8e7c59a9967bb28890d5b18f6189fc.jpg",
+          "postVideoPicture": "https://favim.com/pd/p/orig/2018/10/23/blackpink-blackpink-gif-blackpink-lisa-Favim.com-6451631.gif",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Imperdiet gravida tortor in habitant pellentesque a quisque. Nisl diam, amet eu est libero dignissim donec nec. Fames bibendum porta phasellus neque. Integer et lectus amet, vitae facilisis laoreet feugiat pellentesque accumsan. Turpis eget laoreet turpis urna tincidunt nisl, integer nisl. Id nec tortor vel, dui, lectus. Donec consequat dolor cursus sed pellentesque etiam ipsum, id quam. Tincidunt eu duis ullamcorper posuere augue. Arcu senectus elit, semper diam porta. Platea tempus augue ante pellentesque dictum sed vitae. Auctor dui ac bibendum lacus."
+        },
+        {
+          "postId": 4,
+          "postPicture": "https://www.billboard.com/wp-content/uploads/2023/01/lisa-blackpink-dec-2022-billboard-1548.jpg?w=942&h=623&crop=1",
+          "postVideoPicture": "https://media.tenor.com/pLmhGBqO6soAAAAM/lisa-cute-lisa.gif",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Imperdiet gravida tortor in habitant pellentesque a quisque. Nisl diam, amet eu est libero dignissim donec nec. Fames bibendum porta phasellus neque. Integer et lectus amet, vitae facilisis laoreet feugiat pellentesque accumsan. Turpis eget laoreet turpis urna tincidunt nisl, integer nisl. Id nec tortor vel, dui, lectus. Donec consequat dolor cursus sed pellentesque etiam ipsum, id quam. Tincidunt eu duis ullamcorper posuere augue. Arcu senectus elit, semper diam porta. Platea tempus augue ante pellentesque dictum sed vitae. Auctor dui ac bibendum lacus."
+        },
+        {
+          "postId": 5,
+          "postPicture": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/IPSCHXB4MNCJTCGL33WP4RLD3U.png",
+          "postVideoPicture": "https://favim.com/pd/p/orig/2019/04/03/blackpink-gif-lalisa-manoban-Favim.com-7050940.gif",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Imperdiet gravida tortor in habitant pellentesque a quisque. Nisl diam, amet eu est libero dignissim donec nec. Fames bibendum porta phasellus neque. Integer et lectus amet, vitae facilisis laoreet feugiat pellentesque accumsan. Turpis eget laoreet turpis urna tincidunt nisl, integer nisl. Id nec tortor vel, dui, lectus. Donec consequat dolor cursus sed pellentesque etiam ipsum, id quam. Tincidunt eu duis ullamcorper posuere augue. Arcu senectus elit, semper diam porta. Platea tempus augue ante pellentesque dictum sed vitae. Auctor dui ac bibendum lacus."
+        },
+        {
+          "postId": 6,
+          "postPicture": "https://assets.teenvogue.com/photos/666b3de56cb8726b0ca2356e/16:9/w_2560%2Cc_limit/1434452763",
+          "postVideoPicture": "https://favim.com/pd/p/orig/2018/07/23/lisa-blackpink-gif-lisa-gifs-Favim.com-6042680.gif",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Imperdiet gravida tortor in habitant pellentesque a quisque. Nisl diam, amet eu est libero dignissim donec nec. Fames bibendum porta phasellus neque. Integer et lectus amet, vitae facilisis laoreet feugiat pellentesque accumsan. Turpis eget laoreet turpis urna tincidunt nisl, integer nisl. Id nec tortor vel, dui, lectus. Donec consequat dolor cursus sed pellentesque etiam ipsum, id quam. Tincidunt eu duis ullamcorper posuere augue. Arcu senectus elit, semper diam porta. Platea tempus augue ante pellentesque dictum sed vitae. Auctor dui ac bibendum lacus."
+        },
+        {
+          "postId": 7,
+          "postPicture": "https://upload.wikimedia.org/wikipedia/commons/6/65/BLACKPINK%27s_Lisa_for_BULGARI_June_2023_02_%28cropped%29.jpg",
+          "postVideoPicture": "https://pa1.aminoapps.com/6864/4980af552eb86142cc0b7fca9833fb7ee6d823e1r1-268-320_hq.gif",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Imperdiet gravida tortor in habitant pellentesque a quisque. Nisl diam, amet eu est libero dignissim donec nec. Fames bibendum porta phasellus neque. Integer et lectus amet, vitae facilisis laoreet feugiat pellentesque accumsan. Turpis eget laoreet turpis urna tincidunt nisl, integer nisl. Id nec tortor vel, dui, lectus. Donec consequat dolor cursus sed pellentesque etiam ipsum, id quam. Tincidunt eu duis ullamcorper posuere augue. Arcu senectus elit, semper diam porta. Platea tempus augue ante pellentesque dictum sed vitae. Auctor dui ac bibendum lacus."
         }
       ],
       "followers": [2, 3],
